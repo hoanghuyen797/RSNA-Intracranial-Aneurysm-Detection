@@ -180,6 +180,6 @@ Notebook | Local CV  | Public LB | Private LB | Rank
 [Final2](https://www.kaggle.com/code/longb173/rsna-iad-final-nb?scriptVersionId=266774672)   | 0.8767 | 0.89 |
 
 ### 5. Demo-Test
-Since my submission is an ensemble of multiple models (for increased accuracy), it's quite difficult for users to use right away. The purpose of this section is to package the models so that users can use my solution, for example, deploying in a hospital ...
+Since my submission is an ensemble of multiple models (for increased accuracy), it's quite difficult for users to use. The purpose of this notebook is to package the models into a library so that users can use my solution to test or deploy into their products.
 
 [Demo Notebook](./src/demo-test/test.ipynb)
