@@ -118,7 +118,7 @@ eva large 384 | 0.8486 | 0.8551
 #### 3.4. Exp3 - Multi-task classification + segmentation
 1 model (mit b4 fpn), image size 384 trained on the RSNA dataset. For the submission, I only used the prediction from the classification task.
 
-Run following scripts or use the [./src/exp3_aux/train.ipynb](./src/exp3_aux/train.ipynb)
+Run following scripts or use the notebook [./src/exp3_aux/train.ipynb](./src/exp3_aux/train.ipynb)
 ```shell
 cd src/exp3_aux
 python train.py --cfg configs/mit_b4_fpn_384.yaml
@@ -140,7 +140,7 @@ python create_pseudo_labeling_for_external_dataset.py
 #### 3.6. Exp4 - Classification model
 2 classification models trained on the cleaned RSNA dataset + external dataset (Lausanne_TOFMRA + Royal_Brisbane_TOFMRA) pseudo labeling
 
-Run following scripts or use the [./src/exp4_cls_pseudo/train.ipynb](./src/exp4_cls_pseudo/train.ipynb)
+Run following scripts or use the notebook [./src/exp4_cls_pseudo/train.ipynb](./src/exp4_cls_pseudo/train.ipynb)
 ```shell
 cd exp4_cls_pseudo
 python train_5folds.py --cfg configs/vit_large_384.yaml              ### for evaluation
@@ -159,7 +159,7 @@ eva large 384 | 0.8505 | 0.8579
 #### 3.7. Exp5 - Multi-task classification + segmentation
 1 model (mit b4 fpn), image size 384 trained on the cleaned RSNA dataset + external dataset (Lausanne_TOFMRA + Royal_Brisbane_TOFMRA) pseudo labeling. For the submission, I only used the prediction from the classification task.
 
-Run following scripts or use the [./src/exp5_aux_pseudo/train.ipynb](./src/exp5_aux_pseudo/train.ipynb)
+Run following scripts or use the notebook [./src/exp5_aux_pseudo/train.ipynb](./src/exp5_aux_pseudo/train.ipynb)
 ```shell
 cd src/exp5_aux_pseudo
 python train.py --cfg configs/mit_b4_fpn_384.yaml
