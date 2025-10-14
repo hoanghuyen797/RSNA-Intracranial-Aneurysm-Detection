@@ -2,6 +2,8 @@
 
 xxx place for [RSNA-Intracranial-Aneurysm-Detection Challenge](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/leaderboard)
 
+[Solution Summary]()
+
 ### 1. Environment
 - Ubuntu 22.04 LTS
 - CUDA 12.1
