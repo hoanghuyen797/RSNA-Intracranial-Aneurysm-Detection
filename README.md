@@ -20,7 +20,7 @@ pip install -r requirements.txt
 - Download [competition dataset](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/data) and extract to folder [./dataset](./dataset)
 - Download external dataset [Lausanne_TOFMRA](https://openneuro.org/datasets/ds003949/versions/1.0.1) and [Royal_Brisbane_TOFMRA](https://openneuro.org/datasets/ds005096/versions/1.0.3) to folder [./dataset/external](./dataset/external)
 ```shell
-cd dataset/external_tmp
+cd dataset/external
 sudo snap install aws-cli --classic
 aws s3 sync --no-sign-request s3://openneuro.org/ds003949 Lausanne_TOFMRA
 aws s3 sync --no-sign-request s3://openneuro.org/ds005096 Royal_Brisbane_TOFMRA
