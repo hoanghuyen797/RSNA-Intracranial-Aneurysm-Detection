@@ -1,0 +1,9 @@
+model_name: 'vit_large_patch14_clip_336.openai_ft_in12k_in1k'
+workers: 8
+image_size: 384
+batch_size: 96
+init_lr: 0.00001
+epochs: 15
+mixup: True
+ema_decay: 0.995
+epochs_for_final_submission: 4

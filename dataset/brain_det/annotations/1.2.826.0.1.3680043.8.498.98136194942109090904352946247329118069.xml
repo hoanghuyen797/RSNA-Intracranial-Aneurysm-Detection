@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1.2.826.0.1.3680043.8.498.98136194942109090904352946247329118069.png</filename>
+	<path>..\images\1.2.826.0.1.3680043.8.498.98136194942109090904352946247329118069.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>348</width>
+		<height>384</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>7</ymin>
+			<xmax>314</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,20 @@
+<annotation>
+  <folder>unknown</folder>
+  <filename>1.2.826.0.1.3680043.8.498.74327558941860130560005906799398611067.png</filename>
+  <size>
+    <width>258</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>brain</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>19</xmin>
+      <ymin>1</ymin>
+      <xmax>244</xmax>
+      <ymax>253</ymax>
+    </bndbox>
+  </object>
+</annotation>

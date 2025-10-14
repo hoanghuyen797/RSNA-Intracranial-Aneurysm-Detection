@@ -1,0 +1,11 @@
+encoder_name: 'mit_b4'
+decoder_name: 'fpn'
+encoder_weights: 'imagenet'
+encoder_feat_dims: 1280
+workers: 8
+image_size: 384
+batch_size: 112
+init_lr: 0.0001
+epochs: 15
+mixup: True
+ema_decay: 0.995

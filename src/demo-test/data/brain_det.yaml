@@ -1,0 +1,9 @@
+
+path: /mnt/data/hh/RSNA-Intracranial-Aneurysm-Detection/dataset/brain_det
+train: train.txt
+val: val.txt
+
+# Classes
+names:
+    0: brain
+    1: abnormal

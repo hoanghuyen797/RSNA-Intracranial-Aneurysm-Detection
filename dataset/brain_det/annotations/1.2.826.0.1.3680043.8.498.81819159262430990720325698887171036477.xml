@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1.2.826.0.1.3680043.8.498.81819159262430990720325698887171036477.png</filename>
+	<path>..\images\1.2.826.0.1.3680043.8.498.81819159262430990720325698887171036477.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abnormal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>46</ymin>
+			<xmax>217</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

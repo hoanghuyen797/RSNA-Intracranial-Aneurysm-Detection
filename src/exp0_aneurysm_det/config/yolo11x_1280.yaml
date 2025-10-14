@@ -1,0 +1,5 @@
+model_name: 'yolo11x'
+workers: 16
+image_size: 1280
+batch_size: 16
+epochs: 100

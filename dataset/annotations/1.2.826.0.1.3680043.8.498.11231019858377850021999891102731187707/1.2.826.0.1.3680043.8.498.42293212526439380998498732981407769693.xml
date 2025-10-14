@@ -1,0 +1,20 @@
+<annotation>
+  <folder>unknown</folder>
+  <filename>1.2.826.0.1.3680043.8.498.42293212526439380998498732981407769693.png</filename>
+  <size>
+    <width>260</width>
+    <height>320</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>aneurysm_mri_t2</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>137</xmin>
+      <ymin>143</ymin>
+      <xmax>148</xmax>
+      <ymax>153</ymax>
+    </bndbox>
+  </object>
+</annotation>

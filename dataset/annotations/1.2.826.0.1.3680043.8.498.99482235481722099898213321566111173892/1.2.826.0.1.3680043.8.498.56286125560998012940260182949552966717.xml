@@ -1,0 +1,20 @@
+<annotation>
+  <folder>unknown</folder>
+  <filename>1.2.826.0.1.3680043.8.498.56286125560998012940260182949552966717.png</filename>
+  <size>
+    <width>300</width>
+    <height>384</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>aneurysm</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>78</xmin>
+      <ymin>146</ymin>
+      <xmax>85</xmax>
+      <ymax>155</ymax>
+    </bndbox>
+  </object>
+</annotation>
