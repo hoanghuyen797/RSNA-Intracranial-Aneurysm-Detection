@@ -4,6 +4,8 @@ xxx place for [RSNA-Intracranial-Aneurysm-Detection Challenge](https://www.kaggl
 
 [Solution Summary]()
 
+[Model weights]()
+
 ### 1. Environment
 - Ubuntu 22.04 LTS
 - CUDA 12.1
