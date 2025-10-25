@@ -1,10 +1,10 @@
 # RSNA-Intracranial-Aneurysm-Detection
 
-xxx place for [RSNA-Intracranial-Aneurysm-Detection Challenge](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/leaderboard)
+5th place for [RSNA-Intracranial-Aneurysm-Detection Challenge](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/leaderboard)
 
-[Solution Summary]()
+[Solution Summary](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/writeups/5th-place-solution)
 
-[Model weights]()
+[Model weights](https://www.kaggle.com/datasets/longb173/rsna-iad-ckpts/data)
 
 ### 1. Environment
 - Ubuntu 22.04 LTS
